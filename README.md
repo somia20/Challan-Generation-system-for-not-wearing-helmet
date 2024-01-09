@@ -4,7 +4,8 @@ This project is a Flask-based web application designed to manage and generate tr
 
 The system provides an efficient way to record violations, issue challans, and maintain a digital record of the violation. Additionally, the system sends SMS and email notifications to the admin when a violation is recorded.
 
-![without challan](https://github.com/somia20/Challan-Generation-system-for-not-wearing-helmet/assets/108867754/1cf37774-557f-4037-aa4b-86185b2a8e3e)
+![without challan](https://github.com/somia20/Challan-Generation-system-for-not-wearing-helmet/assets/108867754/6f86497c-8cb8-441b-a154-3dc395603a29)
+
 
 
 ![helmet detected](https://github.com/somia20/Challan-Generation-system-for-not-wearing-helmet/assets/108867754/21d42cfa-ee5f-43de-b1a3-092ed7e7d85e)
