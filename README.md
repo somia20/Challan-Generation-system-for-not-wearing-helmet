@@ -11,6 +11,13 @@ The system provides an efficient way to record violations, issue challans, and m
 ![helmet detected](https://github.com/somia20/Challan-Generation-system-for-not-wearing-helmet/assets/108867754/21d42cfa-ee5f-43de-b1a3-092ed7e7d85e)
 
 
+![sms](https://github.com/somia20/Challan-Generation-system-for-not-wearing-helmet/assets/108867754/d73f3fb1-315a-4fbb-bba8-fc9d81d0dd5b)
+
+![mail](https://github.com/somia20/Challan-Generation-system-for-not-wearing-helmet/assets/108867754/8485f615-7e96-4431-b02f-c53672925af9)
+
+
+
+
 
 
 
